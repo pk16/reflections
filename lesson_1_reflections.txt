@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+We can check for the changes we made and we can easily see as to where the mistake happened.
+We need not check the parts where no change was made during the editing. :)
